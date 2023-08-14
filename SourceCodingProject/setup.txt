@@ -1,0 +1,5 @@
+g++ *.cpp -o main.out
+./main.out
+
+g++ main.cpp LempelZiv_m.cpp Huffman_m.cpp impoExpo_m.cpp -o main
+./main
